@@ -10,3 +10,4 @@ https://machinelearningmastery.com/blog/
 https://www.deeplearningbook.org/lecture_slides.html
 https://www.python-course.eu/machine_learning.php
 http://deeplearning.net/
+https://chatbotsmagazine.com/machine-learning-neural-networks-and-algorithms-5c0711eb8f9a
